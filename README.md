@@ -1,6 +1,6 @@
 # c-sharp-unit-tests
 
-Some C# unit tests code for differents scenarios.
+Some C# unit tests code for different scenarios.
 
 - Refactoring
 - Loose-coupling code (Solved .sln)
